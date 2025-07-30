@@ -1,6 +1,16 @@
-## About me
-
+# About me
+- Computer Science student at University of Luxembourg
+- Linux System Administrator for DZ Privatbank
 - FOSS enthusiast
-- Experience with Go, Java, Kotlin, Bash, Python and Javascript
-- Proficient with SQL and database normalisation
-- Some experience with HTML and CSS but I'm generally bad with front-end
+
+## Programming Languages
+### Experienced
+- Go
+- Java
+### Intermediate
+- Bash
+- Kotlin
+### Basics
+- Python
+- Javascript
+- C++
